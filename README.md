@@ -37,3 +37,10 @@ Este projeto implementa um pipeline de dados automatizado que analisa o históri
 
 **6. Verificar os Resultados**
    * Usando PowerBI é possível visualizar os resultos por meio de gráficos e dashboards.
+
+**7. Para interromper o docker-compose**
+   * No terminal, onde está sendo executado o docker-compose.
+   * Execute o seguinte comando:
+     ```bash
+     docker-compose down
+     ```
