@@ -1,0 +1,501 @@
+id_compra,id_cliente,data_compra,origem,destino,rota,empresa_onibus,valor_compra,qtd_passagens,tem_retorno
+1,1,2018-12-26,Brasilia,Curitiba,Brasilia para Curitiba,Expresso Brasileiro,89.09,1,sim
+2,2,2018-12-05,Fortaleza,Recife,Fortaleza para Recife,Aguiabranca,155.97,1,sim
+3,3,2018-12-21,Curitiba,Recife,Curitiba para Recife,Catarinense,121.99,1,sim
+4,4,2018-12-06,Sao Paulo,Brasilia,Sao Paulo para Brasilia,Cometa,55.22,1,sim
+5,5,2021-02-23,Fortaleza,Curitiba,Fortaleza para Curitiba,Aguiabranca,45.31,1,sim
+6,6,2021-02-11,Porto Alegre,Rio de Janeiro,Porto Alegre para Rio de Janeiro,Itapemirim,154.2,1,sim
+7,7,2021-02-19,Rio de Janeiro,Salvador,Rio de Janeiro para Salvador,Catarinense,188.99,1,sim
+8,8,2020-12-03,Goiania,Brasilia,Goiania para Brasilia,Gontijo,232.96,1,sim
+9,9,2020-12-04,Goiania,Campinas,Goiania para Campinas,Reunidas,23.3,1,sim
+10,10,2021-07-02,Goiania,Brasilia,Goiania para Brasilia,Reunidas,61.55,1,sim
+11,11,2022-07-14,Curitiba,Recife,Curitiba para Recife,Princesa dos Campos,55.46,1,sim
+12,12,2022-07-05,Curitiba,Brasilia,Curitiba para Brasilia,Catarinense,47.7,1,sim
+13,13,2016-09-11,Curitiba,Porto Alegre,Curitiba para Porto Alegre,Reunidas,181.83,1,sim
+14,14,2021-10-20,Recife,Curitiba,Recife para Curitiba,Aguiabranca,42.7,1,sim
+15,15,2019-12-15,Campinas,Recife,Campinas para Recife,Cometa,46.76,1,sim
+16,16,2021-04-29,Manaus,Manaus,Manaus para Manaus,Expresso Brasileiro,49.97,1,sim
+17,7,2021-04-09,Porto Alegre,Sao Paulo,Porto Alegre para Sao Paulo,Gontijo,187.57,1,sim
+18,17,2021-03-05,Belo Horizonte,Belo Horizonte,Belo Horizonte para Belo Horizonte,Catarinense,67.14,1,sim
+19,18,2021-03-03,Rio de Janeiro,Salvador,Rio de Janeiro para Salvador,Catarinense,39.83,1,sim
+20,19,2022-07-30,Belo Horizonte,Campinas,Belo Horizonte para Campinas,Princesa dos Campos,283.85,1,sim
+21,20,2022-07-29,Manaus,Recife,Manaus para Recife,Catarinense,115.46,1,sim
+22,21,2024-03-28,Recife,Sao Paulo,Recife para Sao Paulo,Gontijo,64.65,1,sim
+23,22,2019-12-25,Porto Alegre,Salvador,Porto Alegre para Salvador,Aguiabranca,126.49,1,sim
+24,10,2020-12-16,Campinas,Sao Paulo,Campinas para Sao Paulo,Gontijo,59.98,1,sim
+25,23,2020-12-11,Manaus,Belo Horizonte,Manaus para Belo Horizonte,Expresso Brasileiro,86.83,1,sim
+26,24,2020-12-15,Manaus,Curitiba,Manaus para Curitiba,Aguiabranca,464.89,2,sim
+27,25,2020-12-09,Salvador,Curitiba,Salvador para Curitiba,Itapemirim,563.01,3,sim
+28,26,2019-07-02,Sao Paulo,Belo Horizonte,Sao Paulo para Belo Horizonte,Catarinense,165.2,1,sim
+29,27,2019-07-05,Fortaleza,Manaus,Fortaleza para Manaus,Expresso Brasileiro,41.48,1,sim
+30,28,2021-07-03,Sao Paulo,Rio de Janeiro,Sao Paulo para Rio de Janeiro,Princesa dos Campos,332.64,2,sim
+31,29,2021-07-22,Brasilia,Curitiba,Brasilia para Curitiba,Itapemirim,39.88,1,sim
+32,6,2021-07-02,Curitiba,Brasilia,Curitiba para Brasilia,Reunidas,271.93,1,sim
+33,30,2020-12-21,Sao Paulo,Porto Alegre,Sao Paulo para Porto Alegre,Princesa dos Campos,48.7,1,sim
+34,21,2020-12-20,Recife,Curitiba,Recife para Curitiba,Princesa dos Campos,56.79,1,sim
+35,31,2019-02-27,Sao Paulo,Recife,Sao Paulo para Recife,Reunidas,84.1,1,sim
+36,32,2019-02-07,Belo Horizonte,Porto Alegre,Belo Horizonte para Porto Alegre,Itapemirim,177.36,1,sim
+37,33,2019-02-26,Salvador,Sao Paulo,Salvador para Sao Paulo,Gontijo,45.73,1,sim
+38,34,2023-01-20,Recife,Fortaleza,Recife para Fortaleza,Cometa,76.7,1,sim
+39,35,2017-09-21,Curitiba,Curitiba,Curitiba para Curitiba,Catarinense,113.9,1,sim
+40,36,2017-05-02,Salvador,Campinas,Salvador para Campinas,Princesa dos Campos,72.69,1,sim
+41,37,2019-01-18,Recife,Rio de Janeiro,Recife para Rio de Janeiro,Princesa dos Campos,427.16,1,sim
+42,38,2024-01-01,Curitiba,Manaus,Curitiba para Manaus,Itapemirim,275.35,1,sim
+43,34,2024-01-11,Porto Alegre,Belo Horizonte,Porto Alegre para Belo Horizonte,Itapemirim,88.5,1,sim
+44,39,2019-12-16,Fortaleza,Sao Paulo,Fortaleza para Sao Paulo,Princesa dos Campos,108.16,1,sim
+45,40,2020-01-29,Recife,Rio de Janeiro,Recife para Rio de Janeiro,Catarinense,97.73,2,sim
+46,15,2020-01-01,Campinas,Belo Horizonte,Campinas para Belo Horizonte,Expresso Brasileiro,46.76,1,sim
+47,41,2023-08-25,Fortaleza,Manaus,Fortaleza para Manaus,Expresso Brasileiro,137.82,1,sim
+48,42,2024-02-17,Salvador,Belo Horizonte,Salvador para Belo Horizonte,Gontijo,67.67,1,sim
+49,43,2020-11-30,Brasilia,Sao Paulo,Brasilia para Sao Paulo,Expresso Brasileiro,188.75,1,sim
+50,44,2020-12-06,Sao Paulo,Sao Paulo,Sao Paulo para Sao Paulo,Catarinense,97.75,1,sim
+51,45,2017-05-21,Sao Paulo,Brasilia,Sao Paulo para Brasilia,Cometa,175.51,1,sim
+52,46,2023-11-25,Curitiba,Fortaleza,Curitiba para Fortaleza,Expresso Brasileiro,82.6,1,sim
+53,47,2022-04-27,Curitiba,Fortaleza,Curitiba para Fortaleza,Catarinense,74.34,1,sim
+54,48,2022-04-04,Goiania,Recife,Goiania para Recife,Reunidas,274.73,1,sim
+55,49,2022-04-22,Goiania,Curitiba,Goiania para Curitiba,Gontijo,26.3,1,sim
+56,50,2022-04-24,Rio de Janeiro,Sao Paulo,Rio de Janeiro para Sao Paulo,Itapemirim,208.44,2,sim
+57,51,2022-04-14,Rio de Janeiro,Recife,Rio de Janeiro para Recife,Gontijo,32.05,1,sim
+58,52,2023-03-23,Curitiba,Porto Alegre,Curitiba para Porto Alegre,Gontijo,258.72,1,sim
+59,53,2023-03-29,Belo Horizonte,Salvador,Belo Horizonte para Salvador,Catarinense,82.69,1,sim
+60,54,2023-03-02,Curitiba,Manaus,Curitiba para Manaus,Itapemirim,41.73,1,sim
+61,55,2018-08-09,Rio de Janeiro,Recife,Rio de Janeiro para Recife,Princesa dos Campos,47.2,1,sim
+62,56,2023-01-12,Belo Horizonte,Curitiba,Belo Horizonte para Curitiba,Aguiabranca,31.76,1,sim
+63,57,2023-01-12,Brasilia,Campinas,Brasilia para Campinas,Cometa,115.39,1,sim
+64,58,2023-01-02,Sao Paulo,Sao Paulo,Sao Paulo para Sao Paulo,Princesa dos Campos,139.83,2,sim
+65,59,2022-06-26,Recife,Porto Alegre,Recife para Porto Alegre,Gontijo,242.89,2,sim
+66,60,2022-06-23,Goiania,Rio de Janeiro,Goiania para Rio de Janeiro,Expresso Brasileiro,165.2,2,sim
+67,61,2022-06-09,Curitiba,Recife,Curitiba para Recife,Cometa,410.61,1,sim
+68,62,2018-08-15,Belo Horizonte,Campinas,Belo Horizonte para Campinas,Itapemirim,123.19,2,sim
+69,63,2018-08-12,Porto Alegre,Goiania,Porto Alegre para Goiania,Catarinense,72.61,1,sim
+70,64,2024-01-10,Fortaleza,Rio de Janeiro,Fortaleza para Rio de Janeiro,Cometa,57.64,1,sim
+71,65,2024-01-16,Campinas,Sao Paulo,Campinas para Sao Paulo,Aguiabranca,40,1,sim
+72,66,2024-03-23,Porto Alegre,Campinas,Porto Alegre para Campinas,Princesa dos Campos,53.85,1,sim
+73,67,2024-03-14,Campinas,Sao Paulo,Campinas para Sao Paulo,Gontijo,389.39,1,sim
+74,68,2024-03-22,Campinas,Fortaleza,Campinas para Fortaleza,Expresso Brasileiro,40.45,1,sim
+75,69,2019-04-21,Sao Paulo,Porto Alegre,Sao Paulo para Porto Alegre,Cometa,117.76,2,sim
+76,70,2023-03-06,Salvador,Recife,Salvador para Recife,Catarinense,360.21,2,sim
+77,71,2023-03-10,Rio de Janeiro,Manaus,Rio de Janeiro para Manaus,Princesa dos Campos,65.66,1,sim
+78,72,2023-03-26,Porto Alegre,Sao Paulo,Porto Alegre para Sao Paulo,Cometa,119.95,1,sim
+79,73,2015-10-05,Sao Paulo,Curitiba,Sao Paulo para Curitiba,Aguiabranca,57.71,1,sim
+80,74,2016-02-25,Salvador,Curitiba,Salvador para Curitiba,Expresso Brasileiro,118.05,1,sim
+81,75,2019-11-18,Goiania,Goiania,Goiania para Goiania,Itapemirim,60.37,1,sim
+82,76,2019-08-08,Curitiba,Manaus,Curitiba para Manaus,Princesa dos Campos,66.84,1,sim
+83,77,2019-08-17,Salvador,Curitiba,Salvador para Curitiba,Reunidas,67.25,1,sim
+84,78,2023-07-18,Fortaleza,Salvador,Fortaleza para Salvador,Gontijo,45.02,1,sim
+85,79,2023-07-11,Goiania,Brasilia,Goiania para Brasilia,Princesa dos Campos,120.47,1,sim
+86,80,2023-07-25,Porto Alegre,Manaus,Porto Alegre para Manaus,Princesa dos Campos,88.85,1,sim
+87,81,2015-12-16,Salvador,Salvador,Salvador para Salvador,Expresso Brasileiro,121.36,2,sim
+88,82,2024-02-21,Fortaleza,Goiania,Fortaleza para Goiania,Catarinense,63.29,1,sim
+89,83,2021-07-31,Goiania,Belo Horizonte,Goiania para Belo Horizonte,Itapemirim,34.75,1,sim
+90,84,2021-08-13,Manaus,Recife,Manaus para Recife,Gontijo,377.59,1,sim
+91,85,2021-08-27,Porto Alegre,Sao Paulo,Porto Alegre para Sao Paulo,Princesa dos Campos,97.02,4,sim
+92,86,2021-08-04,Salvador,Manaus,Salvador para Manaus,Itapemirim,271.2,1,sim
+93,87,2019-11-08,Rio de Janeiro,Belo Horizonte,Rio de Janeiro para Belo Horizonte,Reunidas,64.9,1,sim
+94,88,2019-11-25,Manaus,Fortaleza,Manaus para Fortaleza,Cometa,389.11,1,sim
+95,89,2019-02-04,Brasilia,Campinas,Brasilia para Campinas,Itapemirim,254.97,1,sim
+96,90,2016-11-30,Campinas,Recife,Campinas para Recife,Gontijo,82.08,2,sim
+97,91,2023-05-07,Curitiba,Recife,Curitiba para Recife,Reunidas,80.16,1,sim
+98,92,2019-02-23,Curitiba,Campinas,Curitiba para Campinas,Gontijo,94.79,1,sim
+99,93,2019-02-11,Rio de Janeiro,Recife,Rio de Janeiro para Recife,Aguiabranca,33.1,1,sim
+100,94,2018-04-18,Rio de Janeiro,Rio de Janeiro,Rio de Janeiro para Rio de Janeiro,Catarinense,174.88,1,sim
+101,95,2023-12-03,Fortaleza,Belo Horizonte,Fortaleza para Belo Horizonte,Reunidas,114.22,1,sim
+102,96,2020-08-29,Porto Alegre,Belo Horizonte,Porto Alegre para Belo Horizonte,Gontijo,23.2,1,sim
+103,97,2020-08-10,Salvador,Recife,Salvador para Recife,Princesa dos Campos,79.27,1,sim
+104,98,2022-06-30,Recife,Fortaleza,Recife para Fortaleza,Aguiabranca,182.03,1,sim
+105,99,2022-07-29,Porto Alegre,Goiania,Porto Alegre para Goiania,Cometa,106.2,1,sim
+106,100,2024-01-07,Porto Alegre,Campinas,Porto Alegre para Campinas,Itapemirim,28.2,1,sim
+107,101,2018-05-04,Belo Horizonte,Brasilia,Belo Horizonte para Brasilia,Itapemirim,38.99,1,sim
+108,102,2019-10-05,Belo Horizonte,Campinas,Belo Horizonte para Campinas,Princesa dos Campos,66.85,1,sim
+109,17,2019-07-20,Curitiba,Curitiba,Curitiba para Curitiba,Catarinense,181.55,1,sim
+110,103,2019-07-08,Rio de Janeiro,Brasilia,Rio de Janeiro para Brasilia,Reunidas,96.23,1,sim
+111,104,2024-03-09,Sao Paulo,Brasilia,Sao Paulo para Brasilia,Princesa dos Campos,97.59,1,sim
+112,84,2019-12-18,Curitiba,Salvador,Curitiba para Salvador,Princesa dos Campos,156.77,1,sim
+113,105,2019-02-02,Porto Alegre,Belo Horizonte,Porto Alegre para Belo Horizonte,Catarinense,97.9,1,sim
+114,106,2019-12-16,Goiania,Fortaleza,Goiania para Fortaleza,Reunidas,178.25,1,sim
+115,107,2021-04-01,Belo Horizonte,Porto Alegre,Belo Horizonte para Porto Alegre,Gontijo,25.27,1,sim
+116,108,2021-03-14,Curitiba,Brasilia,Curitiba para Brasilia,Catarinense,29.4,1,sim
+117,109,2021-03-10,Salvador,Salvador,Salvador para Salvador,Aguiabranca,134.97,1,sim
+118,110,2021-03-04,Goiania,Fortaleza,Goiania para Fortaleza,Aguiabranca,41.65,1,sim
+119,111,2021-03-28,Brasilia,Salvador,Brasilia para Salvador,Itapemirim,155.38,2,sim
+120,112,2015-12-30,Fortaleza,Fortaleza,Fortaleza para Fortaleza,Princesa dos Campos,51.21,1,sim
+121,113,2017-11-07,Goiania,Manaus,Goiania para Manaus,Princesa dos Campos,125.06,2,sim
+122,114,2018-05-18,Rio de Janeiro,Salvador,Rio de Janeiro para Salvador,Itapemirim,29,1,sim
+123,115,2020-09-19,Recife,Goiania,Recife para Goiania,Cometa,179.45,1,sim
+124,116,2021-07-14,Fortaleza,Porto Alegre,Fortaleza para Porto Alegre,Aguiabranca,128.62,2,sim
+125,117,2021-07-21,Porto Alegre,Belo Horizonte,Porto Alegre para Belo Horizonte,Gontijo,99.85,2,sim
+126,118,2021-12-11,Goiania,Recife,Goiania para Recife,Expresso Brasileiro,56.98,1,sim
+127,119,2021-12-19,Belo Horizonte,Belo Horizonte,Belo Horizonte para Belo Horizonte,Expresso Brasileiro,57.2,1,sim
+128,120,2021-12-16,Goiania,Recife,Goiania para Recife,Aguiabranca,279.65,2,sim
+129,121,2019-02-03,Goiania,Belo Horizonte,Goiania para Belo Horizonte,Expresso Brasileiro,57.35,1,sim
+130,122,2019-02-06,Sao Paulo,Goiania,Sao Paulo para Goiania,Aguiabranca,152.82,2,sim
+131,123,2019-02-04,Salvador,Curitiba,Salvador para Curitiba,Cometa,18.07,1,sim
+132,124,2022-01-23,Porto Alegre,Goiania,Porto Alegre para Goiania,Aguiabranca,99.71,2,sim
+133,91,2022-01-01,Salvador,Manaus,Salvador para Manaus,Princesa dos Campos,87.44,1,sim
+134,125,2023-08-23,Manaus,Porto Alegre,Manaus para Porto Alegre,Catarinense,66.29,1,sim
+135,126,2023-08-08,Belo Horizonte,Recife,Belo Horizonte para Recife,Aguiabranca,167.99,1,sim
+136,126,2023-08-22,Sao Paulo,Salvador,Sao Paulo para Salvador,Princesa dos Campos,171.09,1,sim
+137,127,2023-01-01,Manaus,Brasilia,Manaus para Brasilia,Princesa dos Campos,201.19,2,sim
+138,23,2023-01-13,Belo Horizonte,Rio de Janeiro,Belo Horizonte para Rio de Janeiro,Expresso Brasileiro,191.01,1,sim
+139,128,2019-07-14,Porto Alegre,Sao Paulo,Porto Alegre para Sao Paulo,Expresso Brasileiro,61.76,1,sim
+140,123,2019-11-03,Porto Alegre,Manaus,Porto Alegre para Manaus,Princesa dos Campos,18.1,1,sim
+141,129,2019-11-10,Brasilia,Belo Horizonte,Brasilia para Belo Horizonte,Expresso Brasileiro,51.78,1,sim
+142,130,2019-11-12,Porto Alegre,Salvador,Porto Alegre para Salvador,Itapemirim,171.06,1,sim
+143,131,2019-11-12,Rio de Janeiro,Goiania,Rio de Janeiro para Goiania,Aguiabranca,56.5,1,sim
+144,129,2019-11-17,Brasilia,Brasilia,Brasilia para Brasilia,Catarinense,49.15,1,sim
+145,15,2023-12-08,Belo Horizonte,Sao Paulo,Belo Horizonte para Sao Paulo,Princesa dos Campos,207.09,1,sim
+146,132,2023-12-17,Manaus,Rio de Janeiro,Manaus para Rio de Janeiro,Reunidas,146.38,2,sim
+147,133,2023-12-08,Fortaleza,Rio de Janeiro,Fortaleza para Rio de Janeiro,Reunidas,466.15,3,sim
+148,134,2023-12-27,Brasilia,Rio de Janeiro,Brasilia para Rio de Janeiro,Catarinense,91.3,2,sim
+149,135,2023-12-20,Brasilia,Belo Horizonte,Brasilia para Belo Horizonte,Itapemirim,188.68,1,sim
+150,136,2023-12-24,Goiania,Recife,Goiania para Recife,Cometa,57.74,1,sim
+151,137,2021-07-17,Goiania,Goiania,Goiania para Goiania,Gontijo,76.7,1,sim
+152,138,2021-07-08,Brasilia,Salvador,Brasilia para Salvador,Reunidas,230.09,1,sim
+153,139,2021-07-12,Salvador,Sao Paulo,Salvador para Sao Paulo,Reunidas,77.76,1,sim
+154,140,2021-07-16,Manaus,Rio de Janeiro,Manaus para Rio de Janeiro,Itapemirim,77.76,1,sim
+155,141,2020-12-06,Recife,Campinas,Recife para Campinas,Reunidas,129.91,1,sim
+156,142,2023-09-11,Recife,Goiania,Recife para Goiania,Cometa,81.13,1,sim
+157,143,2023-09-21,Recife,Belo Horizonte,Recife para Belo Horizonte,Aguiabranca,117.53,2,sim
+158,144,2024-01-06,Curitiba,Rio de Janeiro,Curitiba para Rio de Janeiro,Expresso Brasileiro,124.53,2,sim
+159,145,2018-10-12,Belo Horizonte,Sao Paulo,Belo Horizonte para Sao Paulo,Reunidas,82.62,2,sim
+160,145,2018-10-12,Porto Alegre,Goiania,Porto Alegre para Goiania,Princesa dos Campos,85.42,2,sim
+161,146,2020-01-07,Recife,Campinas,Recife para Campinas,Catarinense,195.12,1,sim
+162,147,2022-10-25,Recife,Manaus,Recife para Manaus,Cometa,478.99,1,sim
+163,126,2023-01-20,Fortaleza,Manaus,Fortaleza para Manaus,Catarinense,389.39,1,sim
+164,126,2023-01-26,Porto Alegre,Belo Horizonte,Porto Alegre para Belo Horizonte,Princesa dos Campos,389.39,1,sim
+165,148,2023-01-06,Recife,Belo Horizonte,Recife para Belo Horizonte,Catarinense,50.15,1,sim
+166,149,2023-01-25,Goiania,Goiania,Goiania para Goiania,Expresso Brasileiro,71.97,1,sim
+167,150,2023-01-12,Brasilia,Goiania,Brasilia para Goiania,Aguiabranca,770.39,4,sim
+168,151,2023-04-16,Curitiba,Fortaleza,Curitiba para Fortaleza,Princesa dos Campos,50.15,1,sim
+169,126,2023-04-12,Rio de Janeiro,Porto Alegre,Rio de Janeiro para Porto Alegre,Expresso Brasileiro,330.39,1,sim
+170,152,2015-12-20,Salvador,Sao Paulo,Salvador para Sao Paulo,Gontijo,63.66,1,sim
+171,153,2021-12-19,Salvador,Recife,Salvador para Recife,Itapemirim,80.88,2,sim
+172,153,2021-12-26,Brasilia,Campinas,Brasilia para Campinas,Expresso Brasileiro,39.77,1,sim
+173,154,2016-12-12,Sao Paulo,Campinas,Sao Paulo para Campinas,Expresso Brasileiro,205.27,1,sim
+174,155,2017-12-03,Salvador,Fortaleza,Salvador para Fortaleza,Princesa dos Campos,65.64,1,sim
+175,156,2024-02-21,Goiania,Manaus,Goiania para Manaus,Princesa dos Campos,153.63,1,sim
+176,157,2024-02-05,Curitiba,Rio de Janeiro,Curitiba para Rio de Janeiro,Reunidas,58.76,1,sim
+177,158,2022-03-20,Manaus,Campinas,Manaus para Campinas,Reunidas,104.81,2,sim
+178,159,2022-03-04,Belo Horizonte,Fortaleza,Belo Horizonte para Fortaleza,Aguiabranca,117.56,2,sim
+179,160,2024-04-01,Fortaleza,Fortaleza,Fortaleza para Fortaleza,Gontijo,110.21,1,sim
+180,161,2021-03-10,Curitiba,Recife,Curitiba para Recife,Cometa,97.27,2,sim
+181,162,2021-03-14,Sao Paulo,Curitiba,Sao Paulo para Curitiba,Cometa,52.07,1,sim
+182,140,2021-03-12,Curitiba,Brasilia,Curitiba para Brasilia,Gontijo,77.41,1,sim
+183,163,2023-12-31,Recife,Campinas,Recife para Campinas,Cometa,111.12,2,sim
+184,164,2024-01-06,Porto Alegre,Recife,Porto Alegre para Recife,Aguiabranca,580.37,4,sim
+185,165,2024-01-14,Sao Paulo,Goiania,Sao Paulo para Goiania,Expresso Brasileiro,336.3,2,sim
+186,166,2020-04-12,Manaus,Curitiba,Manaus para Curitiba,Cometa,40.19,1,sim
+187,167,2024-03-27,Curitiba,Sao Paulo,Curitiba para Sao Paulo,Itapemirim,78.23,1,sim
+188,168,2020-10-08,Goiania,Sao Paulo,Goiania para Sao Paulo,Aguiabranca,34.85,1,sim
+189,169,2020-10-28,Campinas,Sao Paulo,Campinas para Sao Paulo,Gontijo,141.54,1,sim
+190,170,2022-03-12,Fortaleza,Salvador,Fortaleza para Salvador,Princesa dos Campos,106.06,1,sim
+191,171,2022-03-24,Recife,Brasilia,Recife para Brasilia,Itapemirim,161.51,1,sim
+192,172,2022-03-08,Salvador,Manaus,Salvador para Manaus,Reunidas,99.75,1,sim
+193,173,2022-03-07,Belo Horizonte,Salvador,Belo Horizonte para Salvador,Cometa,296.29,1,sim
+194,174,2017-11-01,Recife,Sao Paulo,Recife para Sao Paulo,Cometa,91.09,1,sim
+195,175,2020-02-22,Sao Paulo,Manaus,Sao Paulo para Manaus,Itapemirim,172.48,2,sim
+196,176,2017-07-26,Rio de Janeiro,Goiania,Rio de Janeiro para Goiania,Expresso Brasileiro,181.25,1,sim
+197,177,2022-04-12,Goiania,Recife,Goiania para Recife,Princesa dos Campos,130.61,1,sim
+198,178,2022-04-13,Fortaleza,Campinas,Fortaleza para Campinas,Catarinense,165.19,1,sim
+199,179,2022-04-04,Recife,Manaus,Recife para Manaus,Itapemirim,65.35,1,sim
+200,180,2022-04-22,Porto Alegre,Goiania,Porto Alegre para Goiania,Itapemirim,36.64,1,sim
+201,181,2022-04-08,Recife,Curitiba,Recife para Curitiba,Reunidas,175.4,1,sim
+202,44,2023-03-03,Recife,Fortaleza,Recife para Fortaleza,Princesa dos Campos,135.65,1,sim
+203,182,2023-03-05,Fortaleza,Curitiba,Fortaleza para Curitiba,Cometa,174.95,1,sim
+204,183,2022-07-28,Recife,Campinas,Recife para Campinas,Catarinense,244.27,1,sim
+205,184,2022-07-19,Campinas,Campinas,Campinas para Campinas,Expresso Brasileiro,95.51,1,sim
+206,185,2023-03-14,Fortaleza,Porto Alegre,Fortaleza para Porto Alegre,Expresso Brasileiro,142.78,1,sim
+207,186,2023-03-22,Goiania,Sao Paulo,Goiania para Sao Paulo,Reunidas,82.14,1,sim
+208,187,2020-12-20,Fortaleza,Porto Alegre,Fortaleza para Porto Alegre,Princesa dos Campos,103.49,1,sim
+209,188,2017-10-11,Manaus,Sao Paulo,Manaus para Sao Paulo,Expresso Brasileiro,134.14,1,sim
+210,189,2022-12-26,Sao Paulo,Sao Paulo,Sao Paulo para Sao Paulo,Itapemirim,274.58,3,sim
+211,190,2022-12-10,Porto Alegre,Sao Paulo,Porto Alegre para Sao Paulo,Itapemirim,40.85,1,sim
+212,191,2022-12-11,Rio de Janeiro,Curitiba,Rio de Janeiro para Curitiba,Cometa,147.97,1,sim
+213,192,2022-12-10,Salvador,Belo Horizonte,Salvador para Belo Horizonte,Itapemirim,53.57,2,sim
+214,193,2019-11-29,Recife,Fortaleza,Recife para Fortaleza,Expresso Brasileiro,173.59,1,sim
+215,194,2019-11-02,Sao Paulo,Belo Horizonte,Sao Paulo para Belo Horizonte,Princesa dos Campos,116.37,2,sim
+216,195,2015-07-12,Curitiba,Salvador,Curitiba para Salvador,Princesa dos Campos,199.29,2,sim
+217,196,2017-11-29,Rio de Janeiro,Goiania,Rio de Janeiro para Goiania,Gontijo,146.69,1,sim
+218,197,2017-12-29,Campinas,Sao Paulo,Campinas para Sao Paulo,Itapemirim,197.32,3,sim
+219,198,2017-02-10,Salvador,Salvador,Salvador para Salvador,Reunidas,131.05,2,sim
+220,199,2024-03-08,Recife,Campinas,Recife para Campinas,Gontijo,39.15,1,sim
+221,200,2018-06-26,Goiania,Fortaleza,Goiania para Fortaleza,Itapemirim,65.6,1,sim
+222,200,2018-05-30,Fortaleza,Belo Horizonte,Fortaleza para Belo Horizonte,Gontijo,169.26,2,sim
+223,201,2017-01-10,Campinas,Campinas,Campinas para Campinas,Gontijo,270.33,3,sim
+224,202,2022-05-07,Manaus,Manaus,Manaus para Manaus,Expresso Brasileiro,38.5,1,sim
+225,203,2022-05-30,Brasilia,Belo Horizonte,Brasilia para Belo Horizonte,Aguiabranca,97.42,1,sim
+226,204,2019-11-17,Brasilia,Brasilia,Brasilia para Brasilia,Reunidas,67.19,1,sim
+227,205,2019-11-04,Salvador,Manaus,Salvador para Manaus,Cometa,151.26,1,sim
+228,206,2023-10-06,Campinas,Brasilia,Campinas para Brasilia,Itapemirim,47.52,1,sim
+229,207,2021-09-22,Recife,Porto Alegre,Recife para Porto Alegre,Aguiabranca,138.53,1,sim
+230,208,2021-09-19,Campinas,Curitiba,Campinas para Curitiba,Catarinense,222.6,1,sim
+231,209,2021-09-12,Belo Horizonte,Recife,Belo Horizonte para Recife,Itapemirim,212.99,1,sim
+232,180,2021-09-06,Recife,Belo Horizonte,Recife para Belo Horizonte,Cometa,33.64,1,sim
+233,210,2021-09-15,Goiania,Porto Alegre,Goiania para Porto Alegre,Expresso Brasileiro,140.89,2,sim
+234,211,2023-08-24,Manaus,Manaus,Manaus para Manaus,Reunidas,75.05,1,sim
+235,212,2023-08-06,Manaus,Campinas,Manaus para Campinas,Princesa dos Campos,255.61,1,sim
+236,213,2020-01-09,Salvador,Brasilia,Salvador para Brasilia,Itapemirim,293.15,1,sim
+237,214,2020-01-23,Fortaleza,Campinas,Fortaleza para Campinas,Princesa dos Campos,56.04,1,sim
+238,215,2020-01-23,Rio de Janeiro,Curitiba,Rio de Janeiro para Curitiba,Itapemirim,135.77,1,sim
+239,216,2020-01-29,Porto Alegre,Manaus,Porto Alegre para Manaus,Cometa,198.04,1,sim
+240,217,2020-01-09,Curitiba,Sao Paulo,Curitiba para Sao Paulo,Reunidas,156.39,1,sim
+241,218,2020-01-05,Salvador,Fortaleza,Salvador para Fortaleza,Itapemirim,57.63,1,sim
+242,219,2019-12-16,Curitiba,Recife,Curitiba para Recife,Princesa dos Campos,361.57,2,sim
+243,220,2016-03-08,Rio de Janeiro,Sao Paulo,Rio de Janeiro para Sao Paulo,Cometa,143.78,1,sim
+244,221,2016-10-11,Belo Horizonte,Belo Horizonte,Belo Horizonte para Belo Horizonte,Princesa dos Campos,60.35,1,sim
+245,222,2018-03-04,Porto Alegre,Goiania,Porto Alegre para Goiania,Catarinense,43.96,1,sim
+246,223,2017-12-26,Recife,Sao Paulo,Recife para Sao Paulo,Itapemirim,390.64,3,sim
+247,224,2019-07-13,Belo Horizonte,Goiania,Belo Horizonte para Goiania,Aguiabranca,114.19,2,sim
+248,225,2019-11-21,Curitiba,Manaus,Curitiba para Manaus,Catarinense,74.16,1,sim
+249,226,2019-11-06,Recife,Sao Paulo,Recife para Sao Paulo,Princesa dos Campos,116.37,2,sim
+250,227,2022-07-21,Rio de Janeiro,Manaus,Rio de Janeiro para Manaus,Princesa dos Campos,141.91,1,sim
+251,228,2021-12-10,Recife,Fortaleza,Recife para Fortaleza,Catarinense,388.17,2,sim
+252,229,2021-12-05,Manaus,Sao Paulo,Manaus para Sao Paulo,Cometa,116.82,1,sim
+253,230,2023-12-17,Recife,Campinas,Recife para Campinas,Gontijo,55.93,1,sim
+254,231,2023-12-27,Goiania,Rio de Janeiro,Goiania para Rio de Janeiro,Catarinense,83.4,1,sim
+255,232,2020-12-01,Fortaleza,Manaus,Fortaleza para Manaus,Itapemirim,90.26,1,sim
+256,233,2020-12-08,Belo Horizonte,Manaus,Belo Horizonte para Manaus,Aguiabranca,54.14,1,sim
+257,234,2022-09-14,Porto Alegre,Belo Horizonte,Porto Alegre para Belo Horizonte,Reunidas,110.51,1,sim
+258,235,2022-10-31,Goiania,Curitiba,Goiania para Curitiba,Gontijo,441.6,2,sim
+259,236,2021-04-04,Rio de Janeiro,Belo Horizonte,Rio de Janeiro para Belo Horizonte,Cometa,16,1,sim
+260,237,2021-01-03,Campinas,Goiania,Campinas para Goiania,Reunidas,111.98,2,sim
+261,238,2021-01-18,Recife,Curitiba,Recife para Curitiba,Cometa,201.38,2,sim
+262,239,2021-01-11,Campinas,Fortaleza,Campinas para Fortaleza,Reunidas,111.1,1,sim
+263,240,2016-04-14,Manaus,Sao Paulo,Manaus para Sao Paulo,Gontijo,85.58,1,sim
+264,241,2023-09-01,Belo Horizonte,Recife,Belo Horizonte para Recife,Reunidas,73.39,1,sim
+265,239,2023-09-05,Porto Alegre,Porto Alegre,Porto Alegre para Porto Alegre,Aguiabranca,214.76,2,sim
+266,242,2023-09-23,Rio de Janeiro,Sao Paulo,Rio de Janeiro para Sao Paulo,Gontijo,31.14,1,sim
+267,243,2023-12-17,Recife,Campinas,Recife para Campinas,Itapemirim,73.74,1,sim
+268,244,2023-12-21,Belo Horizonte,Belo Horizonte,Belo Horizonte para Belo Horizonte,Catarinense,194.33,1,sim
+269,245,2023-08-27,Fortaleza,Brasilia,Fortaleza para Brasilia,Princesa dos Campos,212.39,1,sim
+270,235,2023-08-20,Campinas,Rio de Janeiro,Campinas para Rio de Janeiro,Catarinense,221.63,1,sim
+271,246,2015-08-08,Campinas,Belo Horizonte,Campinas para Belo Horizonte,Expresso Brasileiro,185.82,2,sim
+272,247,2023-10-27,Fortaleza,Curitiba,Fortaleza para Curitiba,Catarinense,50.01,1,sim
+273,248,2021-08-06,Campinas,Curitiba,Campinas para Curitiba,Gontijo,240.63,1,sim
+274,231,2021-08-19,Sao Paulo,Salvador,Sao Paulo para Salvador,Cometa,64.75,1,sim
+275,249,2024-02-08,Brasilia,Sao Paulo,Brasilia para Sao Paulo,Catarinense,62.13,1,sim
+276,250,2022-03-28,Rio de Janeiro,Brasilia,Rio de Janeiro para Brasilia,Itapemirim,350.5,3,sim
+277,251,2023-04-10,Curitiba,Porto Alegre,Curitiba para Porto Alegre,Aguiabranca,71.96,1,sim
+278,104,2023-11-04,Rio de Janeiro,Belo Horizonte,Rio de Janeiro para Belo Horizonte,Gontijo,133.04,2,sim
+279,241,2023-11-03,Manaus,Manaus,Manaus para Manaus,Princesa dos Campos,73.39,1,sim
+280,252,2023-11-15,Curitiba,Goiania,Curitiba para Goiania,Cometa,375.24,2,sim
+281,253,2022-03-22,Campinas,Belo Horizonte,Campinas para Belo Horizonte,Cometa,109.74,1,sim
+282,254,2022-03-03,Sao Paulo,Porto Alegre,Sao Paulo para Porto Alegre,Aguiabranca,70.77,1,sim
+283,255,2022-10-02,Curitiba,Manaus,Curitiba para Manaus,Princesa dos Campos,48.81,1,sim
+284,256,2022-10-22,Rio de Janeiro,Brasilia,Rio de Janeiro para Brasilia,Itapemirim,11.9,1,sim
+285,257,2021-10-15,Sao Paulo,Rio de Janeiro,Sao Paulo para Rio de Janeiro,Itapemirim,23.4,1,sim
+286,258,2021-10-09,Belo Horizonte,Curitiba,Belo Horizonte para Curitiba,Expresso Brasileiro,43.66,1,sim
+287,259,2023-09-06,Manaus,Recife,Manaus para Recife,Gontijo,83.64,1,sim
+288,260,2019-07-04,Porto Alegre,Brasilia,Porto Alegre para Brasilia,Gontijo,322.52,1,sim
+289,261,2019-07-03,Belo Horizonte,Sao Paulo,Belo Horizonte para Sao Paulo,Gontijo,64.4,1,sim
+290,262,2021-08-31,Goiania,Porto Alegre,Goiania para Porto Alegre,Cometa,29.35,1,sim
+291,263,2021-09-02,Salvador,Brasilia,Salvador para Brasilia,Expresso Brasileiro,422.89,2,sim
+292,264,2023-04-04,Fortaleza,Goiania,Fortaleza para Goiania,Reunidas,179.92,1,sim
+293,265,2023-04-28,Goiania,Manaus,Goiania para Manaus,Reunidas,56.76,1,sim
+294,266,2021-09-07,Goiania,Belo Horizonte,Goiania para Belo Horizonte,Expresso Brasileiro,187.57,1,sim
+295,14,2022-10-25,Sao Paulo,Recife,Sao Paulo para Recife,Aguiabranca,44.11,1,sim
+296,267,2019-12-18,Campinas,Salvador,Campinas para Salvador,Cometa,330.05,1,sim
+297,10,2020-02-18,Goiania,Belo Horizonte,Goiania para Belo Horizonte,Catarinense,64.98,1,sim
+298,3,2020-07-10,Fortaleza,Sao Paulo,Fortaleza para Sao Paulo,Cometa,37.35,1,sim
+299,268,2020-07-13,Curitiba,Brasilia,Curitiba para Brasilia,Itapemirim,69.88,1,sim
+300,3,2020-07-14,Belo Horizonte,Manaus,Belo Horizonte para Manaus,Reunidas,37.35,1,sim
+301,269,2020-06-30,Curitiba,Manaus,Curitiba para Manaus,Itapemirim,129.36,1,sim
+302,270,2023-12-26,Salvador,Curitiba,Salvador para Curitiba,Itapemirim,39.74,1,sim
+303,271,2018-09-03,Rio de Janeiro,Rio de Janeiro,Rio de Janeiro para Rio de Janeiro,Aguiabranca,142.41,1,sim
+304,129,2021-05-07,Belo Horizonte,Curitiba,Belo Horizonte para Curitiba,Gontijo,67.85,1,sim
+305,272,2021-05-27,Sao Paulo,Porto Alegre,Sao Paulo para Porto Alegre,Cometa,42.86,1,sim
+306,273,2021-05-06,Goiania,Campinas,Goiania para Campinas,Expresso Brasileiro,86.32,2,sim
+307,274,2024-03-18,Brasilia,Campinas,Brasilia para Campinas,Princesa dos Campos,28.99,1,sim
+308,275,2024-03-10,Porto Alegre,Salvador,Porto Alegre para Salvador,Aguiabranca,66.66,1,sim
+309,276,2022-03-26,Brasilia,Curitiba,Brasilia para Curitiba,Reunidas,23.8,1,sim
+310,14,2022-02-28,Manaus,Recife,Manaus para Recife,Cometa,84.73,2,sim
+311,277,2018-03-08,Belo Horizonte,Curitiba,Belo Horizonte para Curitiba,Aguiabranca,31.05,1,sim
+312,278,2020-02-22,Salvador,Sao Paulo,Salvador para Sao Paulo,Expresso Brasileiro,99.57,1,sim
+313,279,2018-10-31,Salvador,Goiania,Salvador para Goiania,Gontijo,135.94,1,sim
+314,280,2018-11-24,Belo Horizonte,Fortaleza,Belo Horizonte para Fortaleza,Gontijo,195.84,1,sim
+315,281,2024-01-20,Brasilia,Curitiba,Brasilia para Curitiba,Catarinense,176.99,1,sim
+316,282,2024-01-20,Campinas,Curitiba,Campinas para Curitiba,Itapemirim,183.98,1,sim
+317,283,2024-01-01,Belo Horizonte,Fortaleza,Belo Horizonte para Fortaleza,Gontijo,109.08,1,sim
+318,284,2024-01-04,Rio de Janeiro,Porto Alegre,Rio de Janeiro para Porto Alegre,Aguiabranca,63.7,1,sim
+319,285,2022-05-22,Goiania,Brasilia,Goiania para Brasilia,Expresso Brasileiro,39.29,1,sim
+320,286,2022-05-20,Belo Horizonte,Belo Horizonte,Belo Horizonte para Belo Horizonte,Gontijo,59.65,1,sim
+321,287,2022-07-18,Manaus,Belo Horizonte,Manaus para Belo Horizonte,Reunidas,24.15,1,sim
+322,288,2022-07-10,Goiania,Recife,Goiania para Recife,Itapemirim,191.31,1,sim
+323,289,2022-07-21,Salvador,Brasilia,Salvador para Brasilia,Aguiabranca,243.84,2,sim
+324,118,2022-07-14,Sao Paulo,Recife,Sao Paulo para Recife,Cometa,71.12,1,sim
+325,202,2022-07-19,Brasilia,Brasilia,Brasilia para Brasilia,Princesa dos Campos,37.04,1,sim
+326,159,2022-07-06,Rio de Janeiro,Curitiba,Rio de Janeiro para Curitiba,Cometa,62.38,1,sim
+327,290,2022-07-05,Curitiba,Belo Horizonte,Curitiba para Belo Horizonte,Cometa,146.26,1,sim
+328,289,2022-07-21,Curitiba,Manaus,Curitiba para Manaus,Expresso Brasileiro,121.92,1,sim
+329,291,2022-07-23,Porto Alegre,Goiania,Porto Alegre para Goiania,Gontijo,145.14,1,sim
+330,292,2023-10-20,Salvador,Curitiba,Salvador para Curitiba,Catarinense,43.25,1,sim
+331,293,2020-08-15,Sao Paulo,Campinas,Sao Paulo para Campinas,Aguiabranca,55.93,1,sim
+332,294,2020-08-13,Sao Paulo,Salvador,Sao Paulo para Salvador,Cometa,123.19,1,sim
+333,295,2020-08-14,Goiania,Manaus,Goiania para Manaus,Itapemirim,181.72,1,sim
+334,296,2022-12-16,Belo Horizonte,Brasilia,Belo Horizonte para Brasilia,Cometa,88.42,1,sim
+335,297,2022-12-23,Rio de Janeiro,Sao Paulo,Rio de Janeiro para Sao Paulo,Reunidas,118.59,1,sim
+336,298,2019-11-16,Campinas,Recife,Campinas para Recife,Itapemirim,37.83,1,sim
+337,299,2020-09-15,Recife,Campinas,Recife para Campinas,Aguiabranca,307.96,2,sim
+338,300,2019-12-19,Curitiba,Curitiba,Curitiba para Curitiba,Princesa dos Campos,295.25,3,sim
+339,301,2023-12-09,Manaus,Curitiba,Manaus para Curitiba,Cometa,461.62,2,sim
+340,3,2019-02-19,Goiania,Goiania,Goiania para Goiania,Itapemirim,36.97,1,sim
+341,302,2019-02-12,Rio de Janeiro,Belo Horizonte,Rio de Janeiro para Belo Horizonte,Princesa dos Campos,65.96,1,sim
+342,302,2019-02-11,Manaus,Rio de Janeiro,Manaus para Rio de Janeiro,Cometa,58.88,1,sim
+343,303,2022-01-17,Rio de Janeiro,Salvador,Rio de Janeiro para Salvador,Aguiabranca,207.08,1,sim
+344,304,2022-01-11,Curitiba,Rio de Janeiro,Curitiba para Rio de Janeiro,Princesa dos Campos,60.82,1,sim
+345,305,2022-01-06,Salvador,Brasilia,Salvador para Brasilia,Reunidas,23.8,1,sim
+346,306,2022-01-30,Campinas,Belo Horizonte,Campinas para Belo Horizonte,Reunidas,304.14,5,sim
+347,307,2022-08-31,Goiania,Sao Paulo,Goiania para Sao Paulo,Gontijo,194.85,1,sim
+348,308,2022-09-06,Fortaleza,Goiania,Fortaleza para Goiania,Expresso Brasileiro,40.87,1,sim
+349,309,2020-12-19,Sao Paulo,Recife,Sao Paulo para Recife,Catarinense,200.38,2,sim
+350,310,2020-12-14,Campinas,Recife,Campinas para Recife,Aguiabranca,134.14,1,sim
+351,311,2020-12-22,Porto Alegre,Salvador,Porto Alegre para Salvador,Reunidas,79.18,1,sim
+352,312,2020-02-22,Manaus,Sao Paulo,Manaus para Sao Paulo,Catarinense,124.2,1,sim
+353,313,2020-01-29,Curitiba,Goiania,Curitiba para Goiania,Aguiabranca,118.94,1,sim
+354,314,2019-12-31,Brasilia,Rio de Janeiro,Brasilia para Rio de Janeiro,Reunidas,172.12,1,sim
+355,315,2019-12-31,Porto Alegre,Curitiba,Porto Alegre para Curitiba,Reunidas,72.06,2,sim
+356,316,2023-04-10,Campinas,Fortaleza,Campinas para Fortaleza,Reunidas,313.31,1,sim
+357,317,2024-01-01,Goiania,Manaus,Goiania para Manaus,Itapemirim,196.26,1,sim
+358,318,2024-01-04,Sao Paulo,Campinas,Sao Paulo para Campinas,Catarinense,63.7,1,sim
+359,319,2017-12-30,Curitiba,Goiania,Curitiba para Goiania,Gontijo,43.78,1,sim
+360,320,2023-04-23,Curitiba,Goiania,Curitiba para Goiania,Expresso Brasileiro,30.15,1,sim
+361,129,2022-03-10,Porto Alegre,Rio de Janeiro,Porto Alegre para Rio de Janeiro,Princesa dos Campos,45.03,1,sim
+362,321,2022-03-13,Manaus,Curitiba,Manaus para Curitiba,Expresso Brasileiro,23.2,1,sim
+363,322,2021-09-11,Belo Horizonte,Brasilia,Belo Horizonte para Brasilia,Aguiabranca,322.13,1,sim
+364,323,2022-04-19,Belo Horizonte,Belo Horizonte,Belo Horizonte para Belo Horizonte,Cometa,230.09,1,sim
+365,324,2022-04-13,Porto Alegre,Porto Alegre,Porto Alegre para Porto Alegre,Princesa dos Campos,69.5,1,sim
+366,325,2022-04-17,Belo Horizonte,Belo Horizonte,Belo Horizonte para Belo Horizonte,Catarinense,140.16,1,sim
+367,326,2022-04-04,Rio de Janeiro,Porto Alegre,Rio de Janeiro para Porto Alegre,Expresso Brasileiro,182.9,1,sim
+368,327,2022-04-20,Salvador,Recife,Salvador para Recife,Aguiabranca,33.52,1,sim
+369,328,2023-09-01,Fortaleza,Manaus,Fortaleza para Manaus,Expresso Brasileiro,420.07,1,sim
+370,329,2023-09-06,Curitiba,Curitiba,Curitiba para Curitiba,Aguiabranca,146.61,1,sim
+371,330,2020-10-18,Recife,Brasilia,Recife para Brasilia,Princesa dos Campos,205.08,2,sim
+372,331,2022-07-28,Salvador,Fortaleza,Salvador para Fortaleza,Aguiabranca,58.88,1,sim
+373,332,2022-06-17,Rio de Janeiro,Curitiba,Rio de Janeiro para Curitiba,Cometa,110.99,1,sim
+374,333,2021-01-26,Sao Paulo,Salvador,Sao Paulo para Salvador,Expresso Brasileiro,178.51,1,sim
+375,334,2021-01-03,Manaus,Porto Alegre,Manaus para Porto Alegre,Expresso Brasileiro,235.8,2,sim
+376,331,2022-07-19,Manaus,Fortaleza,Manaus para Fortaleza,Aguiabranca,64.78,1,sim
+377,335,2022-06-30,Porto Alegre,Manaus,Porto Alegre para Manaus,Princesa dos Campos,265.88,4,sim
+378,120,2021-02-19,Campinas,Porto Alegre,Campinas para Porto Alegre,Expresso Brasileiro,100.17,1,sim
+379,336,2024-01-04,Brasilia,Salvador,Brasilia para Salvador,Reunidas,285.07,1,sim
+380,337,2019-11-09,Campinas,Porto Alegre,Campinas para Porto Alegre,Princesa dos Campos,85.9,1,sim
+381,338,2019-11-17,Belo Horizonte,Fortaleza,Belo Horizonte para Fortaleza,Aguiabranca,43.62,1,sim
+382,339,2019-11-16,Rio de Janeiro,Manaus,Rio de Janeiro para Manaus,Reunidas,121.09,1,sim
+383,340,2019-11-02,Goiania,Salvador,Goiania para Salvador,Expresso Brasileiro,378.05,2,sim
+384,341,2019-11-29,Salvador,Salvador,Salvador para Salvador,Expresso Brasileiro,179.19,1,sim
+385,130,2019-11-13,Salvador,Campinas,Salvador para Campinas,Gontijo,173.81,1,sim
+386,142,2022-12-25,Goiania,Salvador,Goiania para Salvador,Itapemirim,100.3,1,sim
+387,342,2022-12-12,Rio de Janeiro,Belo Horizonte,Rio de Janeiro para Belo Horizonte,Itapemirim,707.76,2,sim
+388,343,2022-12-25,Recife,Campinas,Recife para Campinas,Aguiabranca,194.66,3,sim
+389,344,2022-12-14,Porto Alegre,Rio de Janeiro,Porto Alegre para Rio de Janeiro,Gontijo,141.89,1,sim
+390,345,2018-07-26,Goiania,Manaus,Goiania para Manaus,Reunidas,67.46,1,sim
+391,346,2017-09-10,Goiania,Rio de Janeiro,Goiania para Rio de Janeiro,Catarinense,227.47,1,sim
+392,347,2021-10-10,Recife,Rio de Janeiro,Recife para Rio de Janeiro,Catarinense,45.04,1,sim
+393,348,2021-10-19,Brasilia,Curitiba,Brasilia para Curitiba,Expresso Brasileiro,153.39,1,sim
+394,349,2021-10-03,Campinas,Recife,Campinas para Recife,Cometa,407.27,2,sim
+395,350,2021-12-21,Salvador,Belo Horizonte,Salvador para Belo Horizonte,Princesa dos Campos,42.72,1,sim
+396,350,2021-12-19,Campinas,Curitiba,Campinas para Curitiba,Princesa dos Campos,43.44,1,sim
+397,351,2021-12-11,Goiania,Salvador,Goiania para Salvador,Expresso Brasileiro,61.24,2,sim
+398,352,2022-04-02,Sao Paulo,Curitiba,Sao Paulo para Curitiba,Catarinense,129.8,1,sim
+399,353,2022-04-23,Fortaleza,Goiania,Fortaleza para Goiania,Catarinense,24.36,1,sim
+400,354,2022-04-14,Rio de Janeiro,Goiania,Rio de Janeiro para Goiania,Expresso Brasileiro,31.3,1,sim
+401,353,2022-04-17,Salvador,Salvador,Salvador para Salvador,Cometa,20.86,1,sim
+402,355,2023-08-10,Rio de Janeiro,Rio de Janeiro,Rio de Janeiro para Rio de Janeiro,Aguiabranca,185.95,1,sim
+403,356,2023-08-03,Salvador,Goiania,Salvador para Goiania,Expresso Brasileiro,117.99,1,sim
+404,357,2023-08-27,Curitiba,Goiania,Curitiba para Goiania,Reunidas,31.28,1,sim
+405,358,2023-08-25,Fortaleza,Goiania,Fortaleza para Goiania,Princesa dos Campos,199.48,1,sim
+406,359,2020-12-05,Manaus,Goiania,Manaus para Goiania,Catarinense,44.64,1,sim
+407,360,2020-12-01,Belo Horizonte,Brasilia,Belo Horizonte para Brasilia,Expresso Brasileiro,42.27,1,sim
+408,359,2020-12-08,Fortaleza,Rio de Janeiro,Fortaleza para Rio de Janeiro,Cometa,44.64,1,sim
+409,361,2022-09-12,Goiania,Curitiba,Goiania para Curitiba,Expresso Brasileiro,50.9,1,sim
+410,362,2022-09-05,Manaus,Recife,Manaus para Recife,Princesa dos Campos,149.65,1,sim
+411,363,2022-09-17,Salvador,Belo Horizonte,Salvador para Belo Horizonte,Aguiabranca,123.89,1,sim
+412,364,2019-07-23,Manaus,Fortaleza,Manaus para Fortaleza,Reunidas,179.33,2,sim
+413,365,2019-07-24,Rio de Janeiro,Salvador,Rio de Janeiro para Salvador,Reunidas,164.99,1,sim
+414,366,2019-02-27,Recife,Manaus,Recife para Manaus,Catarinense,502.28,1,sim
+415,367,2019-02-14,Brasilia,Fortaleza,Brasilia para Fortaleza,Gontijo,89.68,2,sim
+416,368,2022-01-16,Goiania,Curitiba,Goiania para Curitiba,Reunidas,495.55,1,sim
+417,19,2022-01-29,Curitiba,Belo Horizonte,Curitiba para Belo Horizonte,Expresso Brasileiro,250.38,1,sim
+418,369,2022-01-28,Belo Horizonte,Belo Horizonte,Belo Horizonte para Belo Horizonte,Expresso Brasileiro,165.2,1,sim
+419,370,2018-05-01,Rio de Janeiro,Manaus,Rio de Janeiro para Manaus,Catarinense,120.65,1,sim
+420,193,2020-01-31,Recife,Manaus,Recife para Manaus,Expresso Brasileiro,114.99,1,sim
+421,371,2020-02-12,Fortaleza,Manaus,Fortaleza para Manaus,Princesa dos Campos,101.85,1,sim
+422,338,2020-02-25,Brasilia,Campinas,Brasilia para Campinas,Expresso Brasileiro,46.15,1,sim
+423,366,2020-02-19,Rio de Janeiro,Recife,Rio de Janeiro para Recife,Princesa dos Campos,522.04,1,sim
+424,372,2020-01-09,Fortaleza,Sao Paulo,Fortaleza para Sao Paulo,Cometa,98.23,1,sim
+425,373,2017-01-14,Salvador,Porto Alegre,Salvador para Porto Alegre,Itapemirim,101.23,1,sim
+426,374,2022-08-10,Porto Alegre,Salvador,Porto Alegre para Salvador,Itapemirim,193.32,1,sim
+427,375,2022-08-19,Rio de Janeiro,Sao Paulo,Rio de Janeiro para Sao Paulo,Reunidas,159.6,1,sim
+428,376,2017-07-31,Goiania,Brasilia,Goiania para Brasilia,Gontijo,171.1,1,sim
+429,377,2022-04-17,Campinas,Campinas,Campinas para Campinas,Itapemirim,101.88,2,sim
+430,378,2022-04-27,Goiania,Recife,Goiania para Recife,Aguiabranca,101.36,1,sim
+431,379,2022-04-03,Recife,Fortaleza,Recife para Fortaleza,Expresso Brasileiro,39.94,1,sim
+432,380,2023-01-26,Goiania,Brasilia,Goiania para Brasilia,Princesa dos Campos,62.14,1,sim
+433,381,2023-01-14,Curitiba,Recife,Curitiba para Recife,Expresso Brasileiro,104.49,1,sim
+434,382,2022-06-10,Rio de Janeiro,Campinas,Rio de Janeiro para Campinas,Aguiabranca,158.31,1,sim
+435,383,2022-03-19,Fortaleza,Porto Alegre,Fortaleza para Porto Alegre,Reunidas,214.96,5,sim
+436,384,2022-03-13,Recife,Campinas,Recife para Campinas,Princesa dos Campos,137.83,1,sim
+437,202,2022-03-19,Rio de Janeiro,Belo Horizonte,Rio de Janeiro para Belo Horizonte,Catarinense,42.42,1,sim
+438,385,2024-03-14,Rio de Janeiro,Brasilia,Rio de Janeiro para Brasilia,Expresso Brasileiro,58.53,1,sim
+439,386,2021-01-10,Belo Horizonte,Goiania,Belo Horizonte para Goiania,Aguiabranca,125.44,1,sim
+440,387,2021-01-04,Fortaleza,Manaus,Fortaleza para Manaus,Catarinense,89.21,1,sim
+441,388,2021-01-13,Belo Horizonte,Brasilia,Belo Horizonte para Brasilia,Cometa,511.16,1,sim
+442,389,2021-01-01,Curitiba,Brasilia,Curitiba para Brasilia,Cometa,263.1,2,sim
+443,390,2020-11-05,Recife,Fortaleza,Recife para Fortaleza,Princesa dos Campos,122.9,2,sim
+444,391,2020-11-05,Belo Horizonte,Rio de Janeiro,Belo Horizonte para Rio de Janeiro,Itapemirim,181.49,1,sim
+445,392,2020-11-11,Recife,Salvador,Recife para Salvador,Aguiabranca,71.13,1,sim
+446,393,2020-11-24,Goiania,Recife,Goiania para Recife,Gontijo,80.24,1,sim
+447,394,2020-11-15,Porto Alegre,Recife,Porto Alegre para Recife,Princesa dos Campos,398.84,2,sim
+448,395,2016-04-13,Salvador,Manaus,Salvador para Manaus,Reunidas,85.52,1,sim
+449,396,2020-12-23,Goiania,Goiania,Goiania para Goiania,Aguiabranca,30.42,1,sim
+450,397,2020-12-27,Goiania,Campinas,Goiania para Campinas,Itapemirim,48.26,1,sim
+451,398,2021-07-20,Porto Alegre,Rio de Janeiro,Porto Alegre para Rio de Janeiro,Catarinense,86.34,1,sim
+452,399,2021-07-25,Salvador,Salvador,Salvador para Salvador,Gontijo,216.58,2,sim
+453,400,2021-07-06,Sao Paulo,Manaus,Sao Paulo para Manaus,Cometa,112.09,1,sim
+454,401,2021-07-12,Porto Alegre,Campinas,Porto Alegre para Campinas,Princesa dos Campos,93.22,1,sim
+455,402,2022-02-01,Recife,Porto Alegre,Recife para Porto Alegre,Itapemirim,333.44,4,sim
+456,403,2022-02-07,Brasilia,Goiania,Brasilia para Goiania,Reunidas,211.74,1,sim
+457,404,2023-12-29,Belo Horizonte,Sao Paulo,Belo Horizonte para Sao Paulo,Reunidas,136.66,1,sim
+458,405,2023-12-20,Recife,Salvador,Recife para Salvador,Cometa,176.89,1,sim
+459,406,2023-12-11,Brasilia,Recife,Brasilia para Recife,Aguiabranca,111.18,1,sim
+460,407,2016-08-20,Salvador,Salvador,Salvador para Salvador,Aguiabranca,153.79,1,sim
+461,408,2018-03-15,Campinas,Recife,Campinas para Recife,Itapemirim,116.82,1,sim
+462,409,2020-04-13,Salvador,Fortaleza,Salvador para Fortaleza,Cometa,88.54,1,sim
+463,410,2020-04-17,Curitiba,Belo Horizonte,Curitiba para Belo Horizonte,Reunidas,125.12,1,sim
+464,411,2022-06-10,Salvador,Fortaleza,Salvador para Fortaleza,Princesa dos Campos,112.22,1,sim
+465,412,2019-04-28,Campinas,Belo Horizonte,Campinas para Belo Horizonte,Cometa,21.95,1,sim
+466,413,2019-04-06,Brasilia,Rio de Janeiro,Brasilia para Rio de Janeiro,Aguiabranca,70.71,1,sim
+467,414,2019-04-09,Goiania,Campinas,Goiania para Campinas,Reunidas,46.55,1,sim
+468,415,2018-12-29,Rio de Janeiro,Belo Horizonte,Rio de Janeiro para Belo Horizonte,Gontijo,123.19,2,sim
+469,416,2023-10-30,Porto Alegre,Rio de Janeiro,Porto Alegre para Rio de Janeiro,Princesa dos Campos,705.6,3,sim
+470,417,2023-10-05,Salvador,Sao Paulo,Salvador para Sao Paulo,Cometa,201.9,1,sim
+471,418,2023-10-13,Manaus,Belo Horizonte,Manaus para Belo Horizonte,Expresso Brasileiro,51.43,1,sim
+472,419,2023-05-21,Salvador,Recife,Salvador para Recife,Expresso Brasileiro,279.78,3,sim
+473,420,2020-08-27,Curitiba,Fortaleza,Curitiba para Fortaleza,Expresso Brasileiro,107.73,1,sim
+474,421,2020-08-03,Goiania,Salvador,Goiania para Salvador,Gontijo,125.25,1,sim
+475,422,2020-08-20,Campinas,Belo Horizonte,Campinas para Belo Horizonte,Catarinense,175.32,3,sim
+476,423,2020-08-15,Recife,Goiania,Recife para Goiania,Aguiabranca,112.59,1,sim
+477,424,2022-02-06,Belo Horizonte,Curitiba,Belo Horizonte para Curitiba,Cometa,99.82,1,sim
+478,425,2022-02-24,Rio de Janeiro,Fortaleza,Rio de Janeiro para Fortaleza,Reunidas,155.51,2,sim
+479,131,2020-07-18,Porto Alegre,Rio de Janeiro,Porto Alegre para Rio de Janeiro,Aguiabranca,64.48,1,sim
+480,393,2020-07-28,Brasilia,Curitiba,Brasilia para Curitiba,Princesa dos Campos,83.86,1,sim
+481,426,2023-11-30,Campinas,Fortaleza,Campinas para Fortaleza,Catarinense,146.69,2,sim
+482,427,2017-12-05,Porto Alegre,Brasilia,Porto Alegre para Brasilia,Princesa dos Campos,129.58,1,sim
+483,428,2016-10-03,Goiania,Brasilia,Goiania para Brasilia,Itapemirim,112.86,1,sim
+484,429,2018-08-27,Curitiba,Manaus,Curitiba para Manaus,Itapemirim,230.54,1,sim
+485,430,2018-09-14,Fortaleza,Porto Alegre,Fortaleza para Porto Alegre,Cometa,141.6,1,sim
+486,431,2020-10-29,Belo Horizonte,Manaus,Belo Horizonte para Manaus,Reunidas,147.49,1,sim
+487,432,2023-01-02,Recife,Curitiba,Recife para Curitiba,Cometa,553.82,4,sim
+488,433,2023-01-01,Sao Paulo,Campinas,Sao Paulo para Campinas,Princesa dos Campos,105.1,1,sim
+489,434,2022-07-21,Rio de Janeiro,Sao Paulo,Rio de Janeiro para Sao Paulo,Princesa dos Campos,129.78,1,sim
+490,435,2022-07-14,Rio de Janeiro,Porto Alegre,Rio de Janeiro para Porto Alegre,Catarinense,275.27,1,sim
+491,436,2022-07-02,Brasilia,Recife,Brasilia para Recife,Aguiabranca,353.99,1,sim
+492,437,2022-07-10,Manaus,Manaus,Manaus para Manaus,Catarinense,55.4,1,sim
+493,438,2022-07-03,Recife,Curitiba,Recife para Curitiba,Cometa,160.93,3,sim
+494,439,2023-03-22,Brasilia,Campinas,Brasilia para Campinas,Princesa dos Campos,27,1,sim
+495,440,2023-03-14,Brasilia,Recife,Brasilia para Recife,Aguiabranca,23.4,1,sim
+496,440,2023-03-23,Sao Paulo,Sao Paulo,Sao Paulo para Sao Paulo,Expresso Brasileiro,23.4,1,sim
+497,441,2023-05-28,Sao Paulo,Fortaleza,Sao Paulo para Fortaleza,Catarinense,24.76,1,sim
+498,442,2023-05-23,Goiania,Goiania,Goiania para Goiania,Aguiabranca,250.07,2,sim
+499,443,2023-05-04,Goiania,Recife,Goiania para Recife,Aguiabranca,73.28,1,sim
+500,444,2023-05-19,Belo Horizonte,Belo Horizonte,Belo Horizonte para Belo Horizonte,Catarinense,306.8,2,sim
