@@ -130,7 +130,7 @@ A apresentação completa do projeto está disponível abaixo:
 
 
 
-&nbsp;\*\*\[Clique para ver a apresentação da banca (PDF)]("C:\\Users\\karen\\OneDrive\\Documentos\\Faculdade\\Challege\\sprint4\\EC\_sprint4\_1TSCPF\_solucaofinal\_MyRoute.\_TALK\\EC\_sprint4\_1TSCPF\_solucaofinal\_MyRoute.\_TALK.pdf")\*\*
+&nbsp;\*\*\[Clique para ver a apresentação da banca]("https://www.canva.com/design/DAGzPJVlOF4/mmSzNGPDoxVU9IOI4e_8Jg/edit?utm_content=DAGzPJVlOF4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton")\*\*
 
 
 
