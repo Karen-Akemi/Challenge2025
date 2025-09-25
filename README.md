@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Projeto MyRoute: Pipeline de Análise Preditiva de Clientes
 
 
@@ -161,4 +162,3 @@ Para interromper todos os containers em execução, utilize o seguinte comando n
 ```bash
 
 docker-compose down
-
