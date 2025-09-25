@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 \# Projeto MyRoute: Pipeline de Análise Preditiva de Clientes
 
 
