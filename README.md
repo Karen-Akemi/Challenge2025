@@ -5,7 +5,7 @@ Challenge do 1º ano de Data Science da FIAP (2025).
 
 ## Sobre o Projeto
 
-Este projeto implementa um pipeline de dados ponta-a-ponta que coleta, processa e analisa o histórico de viagens de clientes da empresa fictícia "MyRoute". O objetivo é segmentar os clientes, criar um score de fidelidade e prever suas próximas compras, gerando insights valiosos para a tomada de decisão.
+Este projeto implementa um pipeline de dados ponta-a-ponta que coleta, processa e analisa o histórico de viagens de clientes do projeto "MyRoute". O objetivo é segmentar os clientes, criar um score de fidelidade e prever suas próximas compras, gerando insights valiosos para a tomada de decisão.
 
 A solução é totalmente automatizada utilizando Apache Airflow e containerizada com Docker, garantindo reprodutibilidade e escalabilidade.
 
