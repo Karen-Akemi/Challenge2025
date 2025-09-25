@@ -1,0 +1,5 @@
+pandas
+apache-airflow-providers-oracle
+sqlalchemy
+oracledb
+apache-airflow-providers-oracle[oracle]
