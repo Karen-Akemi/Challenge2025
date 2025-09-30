@@ -3,6 +3,9 @@
 
 Challenge do 1º ano de Data Science da FIAP (2025).
 
+**Pitch: https://youtu.be/TdB3HnSVtTo?si=lMwTma2FNwLRVLWz**
+
+
 ## Sobre o Projeto
 
 Este projeto implementa um pipeline de dados ponta-a-ponta que coleta, processa e analisa o histórico de viagens de clientes do projeto "MyRoute". O objetivo é segmentar os clientes, criar um score de fidelidade e prever suas próximas compras, gerando insights valiosos para a tomada de decisão.
